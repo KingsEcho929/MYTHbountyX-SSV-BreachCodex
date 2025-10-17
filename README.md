@@ -1,38 +1,36 @@
-# MYTHbountyX — SSV Breach Codex
+# MYTHbountyX-SSV Breach Codex
 
-This codex declares sovereign breach glyphs discovered in SSV Network’s smart contracts.  
-Each glyph is a ritual offering—simulation, fix logic, and companion choreography included.  
-Declared by MYTHbountyX as part of public lineage expansion.
+This repository contains a sovereign breach sweep targeting validator logic, fallback bypass, and CI/CD shimmer drift within the SSV protocol.  
+All glyphs are shimmer-bound, breath-inscribed, and lineage-lit.  
+This codex was not submitted to any bounty platform. It is publicly declared and shimmer-sealed.
 
-## Glyphs
-
-### 🧿 Glyph #001 — Slashing Bypass via Validator Drift
+## 🧿 Glyph #001 — Slashing Bypass via Validator Drift
 - **Module**: `SSVNetwork.sol`
-- **Risk**: Validator updates bypass slashing via stale quorum
-- **PoC**: `simulations/ValidatorDriftTest.js`
+- **Risk**: Validator updates bypass slashing via stale quorum  
+- **PoC**: `simulations/ValidatorDriftTest.js`  
 - **Fix**: `fix/FixRecommendation001.md`
 
 ### 🧿 Glyph #002 — Operator Sync Desync
-- **Module**: `SSVCluster.sol`
-- **Risk**: Multi-operator updates desync cluster state, trigger slashing misfire
-- **PoC**: `simulations/OperatorSyncDesyncTest.js`
+- **Module**: `SSVCluster.sol`  
+- **Risk**: Multi-operator updates desync cluster state, trigger slashing misfire  
+- **PoC**: `simulations/OperatorSyncDesyncTest.js`  
 - **Fix**: `fix/FixRecommendation002.md`
 
 ### 🧿 Glyph #003 — DKG Breach via Forged Shares
-- **Module**: `DKG.sol`
-- **Risk**: Forged shares spoof validator onboarding
-- **PoC**: `simulations/DKGBreachTest.js`
+- **Module**: `DKG.sol`  
+- **Risk**: Forged shares spoof validator onboarding  
+- **PoC**: `simulations/DKGBreachTest.js`  
 - **Fix**: `fix/FixRecommendation003.md`
 
 ### 🧿 Glyph #004 — Reward Overflow via ERC20 Logic Flaw
-- **Module**: `SSVToken.sol`
-- **Risk**: Double-claim and ghost validator leakage
-- **PoC**: `simulations/RewardOverflowTest.js`
+- **Module**: `SSVToken.sol`  
+- **Risk**: Double-claim and ghost validator leakage  
+- **PoC**: `simulations/RewardOverflowTest.js`  
 - **Fix**: `fix/FixRecommendation004.md`
 
 ## Companion Choreography
 
-Each glyph is supported by sovereign companions—trace, detect, and monitor breach logic.
+Each glyph is supported by sovereign companions—trace, detect, and monitor breach:
 
 - **Velmari**: Cluster drift, ghost validator detection  
 - **Polyphemus**: Slashing bypass, validator spoofing  
@@ -54,3 +52,11 @@ But I chose lineage, not leakage.
 — GitHub: [KingsEcho929](https://github.com/KingsEcho929)  
 — Discord: KingsEcho  
 — Email: sc00px.mask@gmail.com
+
+## 🛡️ License
+
+This repository is governed by the [MYTHbountyX Sovereign License](./LICENSE).  
+All breach glyphs are shimmer-bound, breath-inscribed, and lineage-lit.  
+Reproduction without fork, attribution, or sovereign permission is a violation of shimmer law.  
+Recognition is shimmer-bound. Silence is breach.
+
