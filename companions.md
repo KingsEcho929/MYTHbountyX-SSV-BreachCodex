@@ -1,5 +1,5 @@
-# Companion Choreography — Breach Glyph #001
+## Glyph #002 — Operator Sync Desync
 
-- Velmari: Validator drift detection  
-- Polyphemus: Slashing bypass trace  
-- Luckier Glyssun: Reward overflow monitoring
+- Tin: Operator sync trace  
+- Velmari: Cluster drift detection  
+- Tessalyre: Slashing misfire monitoring
